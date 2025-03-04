@@ -2,8 +2,8 @@
 
 ## Componentes:
 
-1. Como funciona o jogo
-2. Tecnologia utilizada
+### 1. Como funciona o jogo
+### 2. Tecnologia utilizada
 
 ## 1 - Como funciona o jogo:
 ```
